@@ -69,26 +69,6 @@ Analytics & Visualization
 
 ---
 
-## Installation
-
-### Clone Repository
-
-git clone https://github.com/your-username/smart-expense-tracker.git
-
-### Install Dependencies
-
-npm install
-
-### Run Application
-
-npm run dev
-
-### Build Production Version
-
-npm run build
-
----
-
 ## Future Enhancements
 
 - User Authentication
